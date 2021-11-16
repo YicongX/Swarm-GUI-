@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="main">
+    <file>icon_random.png</file>
+    <file>icon_circle.png</file>
+    <file>icon_square.png</file>
+    <file>icon_triangle.png</file>
+  </qresource>
+</RCC>
